@@ -4,7 +4,7 @@
 
 # Smart Watch Shop  
 
-**Live Preview**: [https://htmltask101.netlify.app/](#)  
+**Live Preview**: [https://htmltask101.netlify.app/] 
 
 ## Project Overview  
 This project is a **Smart Watch Product Page** built using **HTML, TailwindCSS**, and **JavaScript**. It features dynamic interactivity such as product image updates, size and color selection, quantity management, and a cart modal for checkout functionality.  
