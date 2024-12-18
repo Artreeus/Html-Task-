@@ -1,6 +1,4 @@
-﻿Here's a well-structured **README.md** for your "Smart Watch Shop" project based on the code you shared:  
 
----
 
 # Smart Watch Shop  
 
