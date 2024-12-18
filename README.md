@@ -93,7 +93,3 @@ function updateProductImage() {
 - **TailwindCSS**: [https://tailwindcss.com](https://tailwindcss.com)  
 - **Font Awesome**: [https://fontawesome.com](https://fontawesome.com)  
 
----
-
-
-Let me know if you'd like further modifications or additions! 🚀
